@@ -12,7 +12,7 @@ Hacktoberfest-2022
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/fineanmol/Hacktoberfest2022.git
+git clone https://github.com/DE-Nandan/coding_solutions.git
 ```
 - Navigate to project directory.
 ```terminal
